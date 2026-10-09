@@ -13,7 +13,7 @@
 - Написав свій вузол `flight_target` — дрон летить до заданої точки і сідає там.
 
 ## Структура проєкту
-
+```
 fpv_lab2/
  ├── init.py
  ├── flight_state.py 
@@ -34,7 +34,7 @@ fpv_lab2/
  ├── waiting_for_landing.py 
  ├── going_to_target.py 
  └── target_hovering.py 
-
+```
 ## Параметри
 
 Варіант 37 по методичці: Δx = 4.0, Δy = −0.4.
