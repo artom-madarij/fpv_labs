@@ -22,18 +22,18 @@ fpv_lab2/
  ├── flight_target_node.py 
  ├── flight_target_main.py
  └── handlers/
- ├── init.py 
- ├── handler.py 
- ├── waiting_for_system.py 
- ├── prearm_check.py 
- ├── setting_guided.py 
- ├── arming.py 
- ├── taking_off.py 
- ├── hovering.py 
- ├── landing.py 
- ├── waiting_for_landing.py 
- ├── going_to_target.py 
- └── target_hovering.py 
+       ├── init.py 
+       ├── handler.py 
+       ├── waiting_for_system.py 
+       ├── prearm_check.py 
+       ├── setting_guided.py 
+       ├── arming.py 
+       ├── taking_off.py 
+       ├── hovering.py 
+       ├── landing.py 
+       ├── waiting_for_landing.py 
+       ├── going_to_target.py 
+       └── target_hovering.py 
 ```
 ## Параметри
 
